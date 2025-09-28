@@ -1,0 +1,6 @@
+app:
+  name: DevOpsDemoApp
+  version: 1.0.0
+
+env:
+  production: false
